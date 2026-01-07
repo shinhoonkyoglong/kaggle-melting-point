@@ -1,6 +1,6 @@
-# [Kaggle Melting Point Prediction]
+# Kaggle Melting Point Prediction[PNU AI Programming course]
 
-> **[Kaggle Leaderboard 1st Rank Model out of PNU teams]**
+> **Kaggle Leaderboard 1st Rank Model out of PNU teams**
 
 ## Screenshot
 <img width="880" height="487" alt="image" src="https://github.com/user-attachments/assets/139574fc-8b63-4352-a942-13d611da3efa" />
