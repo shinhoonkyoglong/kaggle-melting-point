@@ -12,4 +12,4 @@
 - Developed and optimized an Extra-Trees Regression model
 
 ## Tech Stack
-- [Pytorch, Scikit-learn, Pandas]
+- Pytorch, Scikit-learn, Pandas
